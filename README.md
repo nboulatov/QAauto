@@ -1,2 +1,0 @@
-# QAauto
-QA Automation Class
